@@ -1,7 +1,7 @@
 ### Hi, I'm Thomas Costta  👋
 
-- 🔭 I’m currently developing a mobile app
-- 🌱 I’m currently learning concepts of React Native
+- 🌱 Atualmente estudo conceitos do React Native
+- 🔭 Em busco de um novo desafio como Desenvolvedor React Native Junior
 - 📫 Connect with me: Linkedin [https://www.linkedin.com/in/thomasjeffcosta/]
 
 Languages and Tools:
