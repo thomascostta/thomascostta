@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Thomas Costta  👋
 
+- 🔭 I’m currently developing a mobile app
+- 🌱 I’m currently learning concepts of React Native
+- 📫 Connect with me: Linkedin [https://www.linkedin.com/in/thomasjeffcosta/]
+
+Languages and Tools:
+
+HTML5 CSS3 JavaScript React React Native
 <!--
 **thomascostta/thomascostta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
