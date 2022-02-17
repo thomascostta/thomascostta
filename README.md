@@ -1,13 +1,13 @@
 ### Hi, I'm Thomas Costta  👋
  
 
-:computer: Sou Desenvolvedor Mobile React Native Junior
+:computer: Desenvolvedor Mobile React Native Junior
 
 🔭 Buscando um novo desafio profissional como Dev React Native Junior
 
 :house_with_garden: I’m from Brazil
 
-:books: Atualmente estudo conceitos do React Native
+:books: Atualmente estudo conceitos do React Native e State Management (Redux)
 
 🌱 Possuo 4 meses de experiência profissional
 
