@@ -3,13 +3,9 @@
 
 :computer: Mobile React Native Junior Developer
 
-🔭 Looking a new professional challenge as a Dev React Native Junior
+🇧🇷 I’m from Brazil
 
-:house_with_garden: I’m from Brazil
-
-:books: Currently studying concepts of React Native and Redux (State Management)
-
-🌱 I have 4 months of professional experience as a Dev React Native Jr
+:books: Currently studying concepts of React Native, Redux and JavaScript/TypeScript
 
 ⚡ Fun fact: I'm a black belt in Karate
 
