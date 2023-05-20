@@ -11,9 +11,9 @@ _______________
 
 ### :dizzy: About Me:
 
-##### :telescope: I’m currently working on TradeUp
+##### :telescope: I'm currently working on TradeUp as a Mobile React-Native developer
 
-##### :seedling: I’m currently React-Native
+##### :seedling: Currently studying React-Native and Kotlin
 
 ##### ⚡ Fun fact: I'm a black belt in Karate Shotokan
 
@@ -24,6 +24,7 @@ _______________
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Saga](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
