@@ -11,9 +11,9 @@ _______________
 
 ### :dizzy: About Me:
 
-##### :telescope: I'm currently working on TradeUp as a Mobile React-Native developer
+##### :telescope:
 
-##### :seedling: Currently studying React-Native and Kotlin (Android)
+##### :seedling: Currently studying React-Native, Node.js and Kotlin (Android)
 
 ##### ⚡ Fun fact: I'm a black belt in Karate Shotokan
 
