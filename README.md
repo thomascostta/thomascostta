@@ -9,9 +9,7 @@ _______________
 
 _______________
 
-### :dizzy: About Me:
-
-##### :telescope:
+### 💫: About Me:
 
 ##### :seedling: Currently studying React-Native, Node.js and Kotlin (Android)
 
