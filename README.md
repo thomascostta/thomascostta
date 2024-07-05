@@ -1,7 +1,7 @@
 ### Hi, I'm Thomas Costta  👋
 _______________
 
-#### 📱 Mobile Development
+#### 📱 Mobile And Front-End Development
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thomasjeffcosta/) 
 [![Gmail Badge](https://img.shields.io/badge/-thomas.jeffcosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.jeffcosta@gmail.com)](mailto:thomas.jeffcosta@gmail.com)
@@ -11,7 +11,7 @@ _______________
 
 ### 💫: About Me:
 
-##### :seedling: Currently studying React-Native, Node.js and Kotlin (Android)
+##### :seedling: Currently studying React-Native, Expo e React.js.
 
 ##### ⚡ Fun fact: I'm a black belt in Karate Shotokan
 
