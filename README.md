@@ -11,7 +11,7 @@ _______________
 
 ### 💫: About Me:
 
-##### :seedling: Currently studying React-Native, Expo e React.js.
+##### :seedling: Currently studying Mobile with React-Native and Web with React.Js.
 
 ##### ⚡ Fun fact: I'm a black belt in Karate Shotokan
 
